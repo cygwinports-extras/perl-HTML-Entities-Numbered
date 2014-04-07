@@ -1,0 +1,12 @@
+CPAN_AUTHOR=taniguchi
+inherit perl
+
+NAME="perl-HTML-Entities-Numbered"
+VERSION=0.04
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl numbered HTML entity conversion module"
+DESCRIPTION="HTML::Entities::Numbered is a content conversion filter for named
+HTML entities (symbols, mathmetical symbols, Greek letters, Latin letters, etc.)."
+
+ARCH=noarch
