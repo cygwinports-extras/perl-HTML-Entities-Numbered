@@ -3,7 +3,7 @@ inherit perl
 
 NAME="perl-HTML-Entities-Numbered"
 VERSION=0.04
-RELEASE=1
+RELEASE=2
 CATEGORY="Perl"
 SUMMARY="Perl numbered HTML entity conversion module"
 DESCRIPTION="HTML::Entities::Numbered is a content conversion filter for named
